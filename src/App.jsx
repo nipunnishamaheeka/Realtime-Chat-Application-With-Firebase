@@ -9,7 +9,7 @@ const App = () => {
       <Chat />
       <Detail />
     </div>
-  );
-};
+  )
+}
 
 export default App;
